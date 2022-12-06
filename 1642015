@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kenn janz</title>
+    <link rel="stylesheet" href="indexcll.css">
+    <link rel="icon" href="webicon.ico">
+</head>
+<body>
+    
+    <header>
+        <a href="index.html" class="logo">
+            <img src="icon.png" alt="kenn Janz">
+            <h2 class="Business name">Kenn janz</h2>
+        </a>
+        <nav>
+            <a href="" class="nav-link">Services</a>
+            <a href="html\about.html" class="nav-link">About</a>
+            <a href="" class="nav-link">Blog</a>
+            <a href="" class="contact">contact</a>
+        </nav>
+    </header>
+    <article class="Title">
+        <section>
+            <h1>I am kenn janz</h1>
+            <div class="p-background">
+            <p>This is my official Portfolio to showcase my all works</p>
+                </div>
+            <div class="content">
+            <a href="" class="button-1">Portfolio</a>
+        <a href="" class="button-2">CV</a>
+        </div>
+        <div class="h2social">
+            <h2>Social</h2>
+        </div>
+        <div class="socialnetwork">
+            <a href="https://www.twitter.com/@kennjanz"><img src="twitterlogo.png" class="twitter" title="Twitter" alt="twitter"></a>
+            <a href="https://instagram.com/kennjanz?igshid=YmMyMTA2M2Y="><img src="instagramlogo.png" class="instagram" title="instagram" alt="instagram"></a>
+            <a href="https://youtube.com/@kennjanz"><img src="youtubelogo.png" class="youtube" title="YouTube" alt="youtube"></a>
+            <a href="https://www.tiktok.com/@jinzarchive"><img src="tiktok.png" class="tiktok" title="TikTok" alt="tiktok"></a>
+        </div>
+        <div class="canva2"></div>
+        </section>      
+    </article>
+<script src="js/index.js"></script>
+</body>
+</html>
